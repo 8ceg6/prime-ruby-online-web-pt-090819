@@ -1,2 +1,1 @@
 # Add  code here!
-prime?()
